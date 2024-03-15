@@ -1,0 +1,28 @@
+Body {
+    background-color: aliceblue;
+    color:black
+}
+header {
+    background-color: rgb(170, 142, 196);
+}
+.info h2{
+    background-color: rgb(231, 255, 196);
+    color: blue;
+    text-align: center;
+    overflow: hidden;
+    height: 150;
+    width: 600px;
+}
+h3 {
+    background-color: rgb(231, 255, 196);
+    color: blue;
+    text-align: center;
+    overflow: hidden;
+    height: 150;
+    width: 600px;
+}
+img {
+    display: block; 
+    margin: 0 auto; 
+    size: 500px
+}
